@@ -25,6 +25,10 @@ hr {
     justify-content: center;
 }
 
+.attribution {
+    text-align: center;
+}
+
 @media screen and (min-width: 550px) {
     .header {
         display: flex; 
